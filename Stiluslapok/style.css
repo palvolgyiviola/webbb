@@ -1,0 +1,19 @@
+p{
+    color: rgb(24, 154, 24);
+    background-color: beige;
+    padding: 15px 30px; /*padding: belso margo,kulon is valtozhat(4) margin: kulso margo*/
+margin: 30px;
+border-radius: 5px; /*lekerekit*/
+border: 3px dotted darkgreen;/*solid-sima*/
+font-size: 20px;
+font-family:Arial, Helvetica, sans-serif
+
+}
+img{
+    width: 100%;
+}
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgb(3, 61, 3);
+}
